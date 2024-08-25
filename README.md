@@ -2,3 +2,6 @@
 Git challange
 
 extra content
+
+# Help section
+This used Markdown syntax
